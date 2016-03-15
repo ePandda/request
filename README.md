@@ -26,3 +26,7 @@ GET /v0/search?location=
 ## Fuzz Factor
 Users can control the degree of fuzzy matching determining what defines a "match" from ensuring exact specimen is cited in literature up to
 various levels of the taxonomic hierarchy
+
+## Utility Services
+DOI Resolution using `http://dx.doi.org` and `http://www.crossref.org`
+Person Resolution using `http://orcid.org/`
