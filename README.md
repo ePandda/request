@@ -29,8 +29,25 @@ text to build a composite score for how closely a specimen matches what is descr
 * **URL Params**
 
   **Required:**
+    `scientific_name`
 
   **Optional:**
+    `order`
+    `journal`
+    `article`
+    `taxon_auth`
+    `author`
+    `state_prov`
+    `locality`
 
+* **Success Response:**
+  * **Code:** 200 <br/>
+  **Content:** `{ // TBD }`
 
+* **Error Response:**
+  * **Code:** 422 UNPROCESSABLE ENTRY <br/>
+  **Content:** `ex: { error: "missing required parameter"}`
 
+* **Sample Call:**
+
+* **Notes:**
