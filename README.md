@@ -54,7 +54,7 @@ text to build a composite score for how closely a specimen matches what is descr
 * **Notes:**
 
 
-**Taxonimic Occurrences**
+**Taxonomic Occurrences**
 ----
 
 ePANNDA occurrence matching will match iDigBio specimen and occurrence data to taxonomic occurrences in PBDB. 
