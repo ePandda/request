@@ -21,24 +21,24 @@ text to build a composite score for how closely a specimen matches what is descr
 
 
 * **URL**
-  `/api/v1/publication`
+  <br/> `/api/v1/publication`
 
 * **Method**
-  `GET`
+  <br/> `GET`
 
 * **URL Params**
 
   **Required:**
-    `scientific_name`
+   <br/> `scientific_name`
 
   **Optional:**
-    `order`
-    `journal`
-    `article`
-    `taxon_auth`
-    `author`
-    `state_prov`
-    `locality`
+   <br/> `order`
+   <br/> `journal`
+   <br/> `article`
+   <br/> `taxon_auth`
+   <br/> `author`
+   <br/> `state_prov`
+   <br/> `locality`
 
 * **Success Response:**
   * **Code:** 200 <br/>
